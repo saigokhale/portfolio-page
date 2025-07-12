@@ -515,7 +515,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/portfolio-page/feed.xml", "_blank");
+          window.open("/portfolio-page//feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
