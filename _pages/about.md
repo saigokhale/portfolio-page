@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: sgokhale42
+subtitle: sgokhale42@gatech.edu
 
 profile:
   align: right
