@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: sgokhale42 #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: sgokhale42
 
 profile:
   align: right
@@ -10,8 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>MS CS @ Georgia Tech</p>
-  # <p>123 your address street</p>
-  # <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
