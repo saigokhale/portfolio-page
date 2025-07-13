@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>MS CS @ Georgia Tech</p>
+    <p align="center">MS CS @ Georgia Tech</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-## 👋 Hey! I'm Sai
+### 👋 Hey! I'm Sai
 
 I'm a graduate student in Computer Science at [Georgia Tech](https://www.gatech.edu/).  
 Currently, I'm an **AI intern** at [AMD](https://www.amd.com/en.html), working on model optimization for large language models (LLMs). Previously, I worked at [Oracle](https://www.oracle.com/), Bengaluru, and graduated from Cummins College of Engineering, India.
@@ -43,9 +43,7 @@ At the DML Lab at Georgia Tech, I'm working on leveraging **vision-language mode
 
 ---
 
-Outside of tech, I love exploring new places, painting, and cooking.  
-I’m always up for a good conversation about innovative ideas in ML systems, or anything creative.  
-Feel free to reach out if you’d like to connect, share ideas, or collaborate! -->
+Outside of tech, I love exploring new places, painting, and cooking. I’m always up for a good conversation about innovative ideas in ML systems, or anything creative. Feel free to reach out if you’d like to connect, share ideas, or collaborate!
 
 <!-- Hey! I'm Sai. I'm a graduate student in Computer Science at Georgia Tech. I am currently an AI intern at AMD, working on model optimization for large language models (LLMs). I was previously working at Oracle, Bengaluru and graduated from Cummins College of Engineering, India. 
 
