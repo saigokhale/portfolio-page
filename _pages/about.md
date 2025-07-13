@@ -42,7 +42,7 @@ At the DML Lab at Georgia Tech, I'm working on leveraging **vision-language mode
 
 ---
 
-Outside of tech, I love exploring new places, painting, and cooking. I’m always up for a good conversation about innovative ideas in ML systems, or anything creative. Feel free to reach out if you’d like to connect, share ideas, or collaborate!
+Outside of tech, I love exploring new places, painting, and cooking. I’m always up for a good conversation about innovative ideas tech, or anything creative. Feel free to reach out if you’d like to connect, share ideas, or collaborate!
 
 
 
