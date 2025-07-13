@@ -7,10 +7,10 @@ subtitle: sgokhale42@gatech.edu
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p align="center">MS CS @ Georgia Tech</p>
-    <p align="center">📍San Jose, CA</p>
+    <p align="center">MS CS, Georgia Tech</p>
+    <p align="center">San Jose, CA</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,14 +27,10 @@ latest_posts:
 ---
 
 
-### 👋 Hey! I'm Sai
+👋 Hey! I'm Sai
 
 I'm a graduate student in Computer Science at [Georgia Tech](https://www.gatech.edu/).  
 Currently, I'm an **AI intern** at [AMD](https://www.amd.com/en.html), working on model optimization for large language models (LLMs). Previously, I worked at [Oracle](https://www.oracle.com/), Bengaluru, and graduated from Cummins College of Engineering, India.
-
-
-
-#### Interests & Experience
 
 I'm interested in applied research to build efficient and accessible ML systems. My previous work has spanned several areas, including:
 
