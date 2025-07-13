@@ -40,8 +40,6 @@ I'm interested in applied research to build efficient and accessible ML systems.
 
 At the DML Lab at Georgia Tech, I'm working on leveraging **vision-language models (VLMs)** for efficient data labeling. Through these experiences, I’ve gained hands-on expertise in designing practical solutions for machine learning systems.
 
----
-
 Outside of tech, I love exploring new places, painting, and cooking. I’m always up for a good conversation about innovative ideas tech, or anything creative. Feel free to reach out if you’d like to connect, share ideas, or collaborate!
 
 

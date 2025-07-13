@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: https://drive.google.com/file/d/1-b9XtOB5_3okum_94sN1jqRAtuyykLVV/view #/cv/
 title: cv
 nav: true
 nav_order: 5
