@@ -14,7 +14,7 @@ ninja.data = [{
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/portfolio-page/https:/drive.google.com/file/d/1-b9XtOB5_3okum_94sN1jqRAtuyykLVV/view";
+            window.location.href = "/portfolio-page/https:/drive.google.com/file/d/18UECEe__7C_S9-Dl_lwJuQKKhkxuiU74/view";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
